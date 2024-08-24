@@ -1,7 +1,7 @@
 import numpy as np
 from PIL import Image
 
-# Logistic map function
+# Logistic map function ##
 def logistic_map(x, r):
     return r * x * (1 - x)
 
